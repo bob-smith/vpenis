@@ -1,4 +1,4 @@
-[![Build Status](https://api.travis-ci.org/neechbear/vpenis.svg?branch=devel)](https://travis-ci.org/neechbear/vpenis)
+[![Build Status](https://api.travis-ci.org/bob-smith/vpenis.svg)](https://travis-ci.org/bob-smith/vpenis)
 
 # vpenis
 

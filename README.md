@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 [![Build Status](https://api.travis-ci.org/neechbear/vpenis.svg?branch=master)](https://travis-ci.org/neechbear/vpenis)
+=======
+[![Build Status](https://api.travis-ci.org/bob-smith/vpenis.svg)](https://travis-ci.org/bob-smith/vpenis)
+>>>>>>> 48bf2163d1b3ec118fbeff513cb3e50ba237b081
 
 # vpenis
 

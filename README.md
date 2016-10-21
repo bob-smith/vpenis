@@ -48,7 +48,7 @@ The following system characterists go towards your score.
 
      Pull requests welcome!
      Note: in order to submit patches more easily, you might want to get a github
-     account, fork the bot, and clone from your own writeable version.
+     account, fork the code, and clone from your own writeable version.
 
      # If you do that, clone with:
      git clone git@github.com:<username>/vpenis.git
